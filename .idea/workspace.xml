@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9e6f75e4-a635-4481-9497-4e7ce0d72829" name="Default Changelist" comment="" />
+    <list default="true" id="9e6f75e4-a635-4481-9497-4e7ce0d72829" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -136,14 +140,18 @@
       <screen x="0" y="25" width="1792" height="1014" />
     </state>
     <state x="513" y="131" key="CommitChangelistDialog2/0.25.1792.1014@0.25.1792.1014" timestamp="1648136405148" />
+    <state x="100" y="125" width="1592" height="814" key="DiffContextDialog" timestamp="1648137824345">
+      <screen x="0" y="25" width="1792" height="1014" />
+    </state>
+    <state x="100" y="125" width="1592" height="814" key="DiffContextDialog/0.25.1792.1014@0.25.1792.1014" timestamp="1648137824345" />
     <state x="684" y="292" key="FileChooserDialogImpl" timestamp="1648136273620">
       <screen x="0" y="25" width="1792" height="1014" />
     </state>
     <state x="684" y="292" key="FileChooserDialogImpl/0.25.1792.1014@0.25.1792.1014" timestamp="1648136273620" />
-    <state width="283" height="630" key="Git.Branch.Popup" timestamp="1648137309556">
+    <state width="283" height="630" key="Git.Branch.Popup" timestamp="1648138097037">
       <screen x="0" y="25" width="1792" height="1014" />
     </state>
-    <state width="283" height="630" key="Git.Branch.Popup/0.25.1792.1014@0.25.1792.1014" timestamp="1648137309556" />
+    <state width="283" height="630" key="Git.Branch.Popup/0.25.1792.1014@0.25.1792.1014" timestamp="1648138097037" />
     <state width="1748" height="463" key="GridCell.Tab.0.bottom" timestamp="1648137250959">
       <screen x="0" y="25" width="1792" height="1014" />
     </state>
@@ -168,9 +176,21 @@
       <screen x="0" y="25" width="1792" height="1014" />
     </state>
     <state x="496" y="270" key="Vcs.Push.Dialog.v2/0.25.1792.1014@0.25.1792.1014" timestamp="1648136513490" />
-    <state x="675" y="453" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1648136801720">
+    <state x="661" y="271" key="VcsDiffUtil.ChangesDialog" timestamp="1648137818234">
       <screen x="0" y="25" width="1792" height="1014" />
     </state>
-    <state x="675" y="453" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.25.1792.1014@0.25.1792.1014" timestamp="1648136801720" />
+    <state x="661" y="271" key="VcsDiffUtil.ChangesDialog/0.25.1792.1014@0.25.1792.1014" timestamp="1648137818234" />
+    <state x="675" y="453" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1648138016823">
+      <screen x="0" y="25" width="1792" height="1014" />
+    </state>
+    <state x="675" y="453" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.25.1792.1014@0.25.1792.1014" timestamp="1648138016823" />
+    <state x="635" y="250" key="git4idea.branch.GitSmartOperationDialog" timestamp="1648138099548">
+      <screen x="0" y="25" width="1792" height="1014" />
+    </state>
+    <state x="635" y="250" key="git4idea.branch.GitSmartOperationDialog/0.25.1792.1014@0.25.1792.1014" timestamp="1648138099548" />
+    <state x="666" y="329" key="git4idea.merge.GitMergeDialog" timestamp="1648138085167">
+      <screen x="0" y="25" width="1792" height="1014" />
+    </state>
+    <state x="666" y="329" key="git4idea.merge.GitMergeDialog/0.25.1792.1014@0.25.1792.1014" timestamp="1648138085167" />
   </component>
 </project>
